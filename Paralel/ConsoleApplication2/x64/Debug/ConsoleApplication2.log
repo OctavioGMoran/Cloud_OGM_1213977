@@ -1,0 +1,4 @@
+﻿  ConsoleApplication2.cpp
+C:\Users\ogmor\Documents\Reports\pruebaOMP\ConsoleApplication2\ConsoleApplication2\ConsoleApplication2.cpp(23,13): warning C4244: '=': conversión de 'int' a 'float'; posible pérdida de datos
+C:\Users\ogmor\Documents\Reports\pruebaOMP\ConsoleApplication2\ConsoleApplication2\ConsoleApplication2.cpp(24,13): warning C4244: '=': conversión de 'int' a 'float'; posible pérdida de datos
+  ConsoleApplication2.vcxproj -> C:\Users\ogmor\Documents\Reports\pruebaOMP\ConsoleApplication2\x64\Debug\ConsoleApplication2.exe
